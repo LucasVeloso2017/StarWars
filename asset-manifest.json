@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3d042208.chunk.js",
+    "main.js.map": "/static/js/main.3d042208.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf081f8c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf081f8c.js.map",
+    "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
+    "static/js/2.0af6e81d.chunk.js": "/static/js/2.0af6e81d.chunk.js",
+    "static/js/2.0af6e81d.chunk.js.map": "/static/js/2.0af6e81d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
+    "static/js/2.0af6e81d.chunk.js.LICENSE.txt": "/static/js/2.0af6e81d.chunk.js.LICENSE.txt",
+    "static/media/driven.9e916fbb.png": "/static/media/driven.9e916fbb.png",
+    "static/media/falcom.b7cbfe08.png": "/static/media/falcom.b7cbfe08.png",
+    "static/media/imperial.255c8456.png": "/static/media/imperial.255c8456.png",
+    "static/media/landscape.d65e22d8.jpg": "/static/media/landscape.d65e22d8.jpg",
+    "static/media/logo.3bf2a05e.svg": "/static/media/logo.3bf2a05e.svg",
+    "static/media/planet.9734817b.jpg": "/static/media/planet.9734817b.jpg",
+    "static/media/stars.c1ffa926.jpg": "/static/media/stars.c1ffa926.jpg",
+    "static/media/tie.077aa859.png": "/static/media/tie.077aa859.png",
+    "static/media/vader.280e8467.png": "/static/media/vader.280e8467.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf081f8c.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.0af6e81d.chunk.js",
+    "static/js/main.3d042208.chunk.js"
+  ]
+}
